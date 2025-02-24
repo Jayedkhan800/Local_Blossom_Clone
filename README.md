@@ -1,6 +1,6 @@
 # Local_Blossom_Clone
 
 ```
-git clone https://github.com/Jayedkhan800/Local_Blossom_Clone.git && cd Local_Blossom_Clone && chmod +x Clone.sh && ./Clone.sh
+curl https://raw.githubusercontent.com/AsTechpro20/build_scripts_blossom/Lineage-20/Clone.sh
 ```
 
